@@ -162,6 +162,29 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+<div align="center">
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🧩 <b>SUNDAY SCHOOL GAMIFIED HUB</b></h3>
+      <img src="https://img.shields.io/badge/MODULE-INTERACTIVE_LEARNING-orange?style=flat-square" />
+      <img src="https://img.shields.io/badge/TECH-HTML5_GAME_ENGINE-orange?style=flat-square" />
+      <br/>
+      <samp>Developing **Educational Games** for Coptic Kids. Memory Match, Verse Puzzles, and Interactive Lessons to make Sunday School engaging.</samp>
+    </td>
+    <td width="50%" align="center">
+      <h3>⚙️ <b>AUTOMATION SCRIPTS & TOOLS</b></h3>
+      <img src="https://img.shields.io/badge/TOOL-PYTHON_BOTS-gray?style=flat-square" />
+      <img src="https://img.shields.io/badge/TOOL-DATA_SCRAPING-gray?style=flat-square" />
+      <br/>
+      <samp>Utility scripts for **Bulk Data Processing**, **Automated Reporting**, and System Maintenance. Optimizing workflows with code.</samp>
+    </td>
+  </tr>
+</table>
+</div>
 </div>
 
 ---
