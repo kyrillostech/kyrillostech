@@ -68,9 +68,9 @@ I am a **Software Engineer** dedicated to building high-performance applications
       <br/>`Resource Tracking` `Sustainability` `Decision Support`
     </td>
     <td width="50%">
-      **🚜 Factory Logistics & Movement**
-      <br/>Real-time system for organizing and tracking movement within large-scale factories.
-      <br/>`Logic Optimization` `Operations Planning` `Logistics`
+      **� Industrial Fleet & Transport Management**
+      <br/>Comprehensive system for Fleet Department management, vehicle tracking, and transport logs.
+      <br/>`Fleet Management` `Vehicle Tracking` `Maintenance Scheduling` `Logistics`
     </td>
   </tr>
   <tr>
