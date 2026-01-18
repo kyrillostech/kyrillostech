@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Eng.%20Kirollos%20Emad&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
 ### 🚀 **SOFTWARE ARCHITECT | FULL STACK DEVELOPER | SOLUTIONS ENGINEER**
-**Bridging Engineering Logic with Cutting-Edge Programming**
+**Engineering the Future of Industrial & Spiritual Systems**
 
 <br/>
 
@@ -16,121 +16,108 @@
 
 ---
 
-<!-- Professional Stats -->
+<!-- Skills Wall (Replaces Empty Stats) -->
+### 🛠️ **The Tech Arsenal**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,kotlin,flutter,mongodb,postgres,mysql,firebase,wordpress,webflow,figma,docker,git,ps,ai" />
+</p>
+
+</div>
+
+---
+
+## 🧑‍💻 **Mastering Professional Engineering Solutions** | نُبذة عن المطور
+
+I am a **Software Architect** with a deep engineering background, specialized in creating high-stakes industrial systems and high-impact community applications. My focus is on scalability, security, and world-class UI/UX.
+
+- 🏭 **Industrial Excellence**: Architect of specialized systems for Pharma, Food, and Heavy Industries.
+- ⛪ **Faith-Tech Pioneer**: Innovating spiritual growth through modern Coptic Orthodox digital tools.
+- � **Decision Support**: Expert in building analytical systems for sustainability and risk assessment.
+
+---
+
+## 🌟 **Industrial & Enterprise Solutions** | الأنظمة الصناعية والإدارية
+
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=kyrillostech&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
+    <td width="50%">
+      <div align="center"><b>💊 Quality Assurance (QA) System</b></div>
+      <p align="center">Full QA/QC lifecycle management for Pharma/Food factories. Modules for <b>CAPA</b>, Auditing, and Compliance. </p>
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrillostech&layout=compact&theme=nord&hide_border=true" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🧑‍💻 **Mastering the Art of Software Engineering** | نُبذة عن المطور
-
-I specialized in developing **High-Performance Industrial & Spiritual Systems**. My journey merges the discipline of engineering with the creativity of modern software architecture.
-
-- � **Industrial Powerhouse**: Architecture of QA, EHS, and Fleet Management systems for Pharma/Food giants.
-- ⛪ **Faith-Tech Pioneer**: Leading developer of spiritual growth tools and Coptic Orthodox community systems.
-- 🎨 **Visual & Logic Harmony**: Expert in high-conversion UI/UX, Landing Pages, and WordPress Mastery.
-
----
-
-## 🛠️ **Tech Arsenal | ترسانة التقنيات**
-
-<div align="center">
-
-| 🏗️ Architecture | 🌐 Web & Backend | 📱 Mobile | ⚙️ Industrial |
-| :--- | :--- | :--- | :--- |
-| `Clean Architecture` | `React / Next.js` | `Kotlin / Java` | `Pharma Compliance` |
-| `Microservices` | `Node.js / Express` | `Flutter` | `EHS Standards` |
-| `Database Design` | `.NET Core` | `React Native` | `QA - CAPA` |
-| `Security (JWT)` | `PostgreSQL / MongoDB` | `Jetpack Compose` | `Sustainability Analytics` |
-
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,kotlin,flutter,mongodb,postgres,wordpress,figma,docker,git" />
-</div>
-
----
-
-## 🌟 **Industrial & Professional Portfolio** | الأنظمة الاحترافية
-
-### 🏢 **Enterprise Solutions (Industrial Excellence)**
-<table>
-  <tr>
-    <td width="33%">
-      <div align="center"><b>💊 Quality Assurance (QA)</b></div>
-      <p align="center">Comprehensive QA System for Pharma/Food, featuring <b>CAPA Monitoring</b>, Auditing, and full compliance logs. </p>
-    </td>
-    <td width="33%">
-      <div align="center"><b>🛡️ EHS Management</b></div>
-      <p align="center">Environment, Health, and Safety protocols management for high-risk industrial environments.</p>
-    </td>
-    <td width="33%">
-      <div align="center"><b>🚛 Fleet & Transport</b></div>
-      <p align="center">Full <b>Fleet Department</b> management: vehicle tracking, maintenance, and logistics optimization.</p>
+    <td width="50%">
+      <div align="center"><b>⚖️ Complex Risk Assessment</b></div>
+      <p align="center">Advanced framework for evaluating industrial hazards, risk matrices, and preventive health protocols.</p>
     </td>
   </tr>
   <tr>
-    <td width="33%">
-      <div align="center"><b>♻️ Waste & Sustainability</b></div>
-      <p align="center">Sustainability analytics platform for waste tracking and data-driven decision making.</p>
+    <td width="50%">
+      <div align="center"><b>🛡️ EHS Management (HSE)</b></div>
+      <p align="center">Comprehensive Environment, Health, and Safety system. Tracking incidents, PPE, and safety training logs.</p>
     </td>
-    <td width="33%">
+    <td width="50%">
+      <div align="center"><b>🚛 Fleet & Transport (Fleet Dept)</b></div>
+      <p align="center">Total management for industrial fleet: vehicle tracking, maintenance scheduling, and fuel logistics.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <div align="center"><b>♻️ Waste & Env. Management</b></div>
+      <p align="center">Dedicated system for industrial waste tracking, recycling logs, and environmental impact reporting.</p>
+    </td>
+    <td width="50%">
+      <div align="center"><b>📊 Sustainability Analytics</b></div>
+      <p align="center">Data-driven decision support system for corporate sustainability and resource optimization.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <div align="center"><b>🏠 Expat Housing ERP</b></div>
-      <p align="center">End-to-end management for hostels and expat residences with financial rental tracking.</p>
+      <p align="center">Comprehensive management system for hostels and expat residences with financial tracking.</p>
     </td>
-    <td width="33%">
-      <div align="center"><b>🧾 Smart Invoicing</b></div>
-      <p align="center">Advanced automated billing and financial reporting with tax law integrations.</p>
+    <td width="50%">
+      <div align="center"><b>🧾 Automated Invoicing & Finance</b></div>
+      <p align="center">Professional billing system with tax law compliance and dynamic financial reporting.</p>
     </td>
   </tr>
 </table>
 
-### ⛪ **Community & Spiritual Applications**
-<table>
+---
+
+## ⛪ **Community & Spiritual Applications** | التطبيقات الخدمية والروحية
+
+<table align="center">
   <tr>
     <td width="33%">
       <div align="center"><b>⛪ Sunday School ERP</b></div>
-      <p align="center">Integrated system for student attendance, servant tracking, and service organization.</p>
+      <p align="center">Attendance, servant tracking, and service organization system.</p>
     </td>
     <td width="33%">
       <div align="center"><b>📖 Bread of Life</b></div>
-      <p align="center">Premium Bible Planner with a unique Monastic UI and spiritual streak system.</p>
+      <p align="center">Premium Bible Planner with Monastic UI and spiritual streak system.</p>
     </td>
     <td width="33%">
       <div align="center"><b>🔥 Fire Engineering</b></div>
-      <p align="center">Reference tool based on international engineering formulas for fire system estimation.</p>
+      <p align="center">Engineering reference tool for fire system estimation and calculations.</p>
     </td>
   </tr>
 </table>
 
-### 🎨 **Creative Arts & Web Mastery**
-*   **High-Conversion Landing Pages**: Crafting psychological and visual journeys that convert visitors into clients.
-*   **WordPress Wizardry**: Complex WooCommerce, custom Elementor modules, and high-performance CMS sites.
+---
+
+## 🎨 **Creative Arts & Web Mastery** | التطوير الإبداعي
+*   **High-Conversion Landing Pages**: Professional designs tailored for sales and user engagement.
+*   **WordPress Wizardry**: Custom Elementor development, WooCommerce, and high-performance CMS.
+*   **Secure Auth Dynamics**: Multi-layer login systems with JWT and secure session handling.
 
 ---
 
 <div align="center">
 
-## 📈 **Life in Pixels | GitHub Activity**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kyrillostech&theme=nord&hide_border=true&area=true)
-
----
-
-## 📫 **Let's Build Something Great!**
+## 📫 **Let's Connect | تواصل معي**
 | 🌐 [cv.kyrillos.site](https://cv.kyrillos.site) | 💼 [LinkedIn](https://eg.linkedin.com/in/kyrillosemad) | 📧 [kyrillos@engineer.com](mailto:kyrillos@engineer.com) | 📱 [WhatsApp Click](https://wa.me/201124259002) |
 |:---:|:---:|:---:|:---:|
 
-**Available for High-Profile Freelance & Full-time Architecture Roles.**
+**Available for High-Profile Freelance & Full-time Roles.**
 
 *"I can do all things through Christ who strengthens me" — Philippians 4:13*
 
