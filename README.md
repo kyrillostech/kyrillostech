@@ -47,30 +47,42 @@ I am a **Software Engineer** dedicated to building high-performance applications
 
 ## 🌟 Featured Projects | أبرز المشاريع
 
-### 🏢 Enterprise & Management Systems (الأنظمة الإدارية)
+### 🏢 Enterprise & Industrial Solutions (الأنظمة الإدارية والصناعية)
 <table>
   <tr>
     <td width="50%">
-      **🚜 Factory Logistics Management**
-      <br/>System for organizing and tracking movement within factories.
-      <br/>`Logic Optimization` `Movement Tracking` `Operations Planning`
+      **� Pharmaceutical & Food QA System**
+      <br/>Advanced Quality Assurance system with CAPA, Auditing, and Compliance modules.
+      <br/>`Pharma Compliance` `Auditing` `CAPA` `Quality Control`
     </td>
     <td width="50%">
-      **⚖️ Risk Assessment System**
-      <br/>Comprehensive framework for evaluating and managing industrial risks.
-      <br/>`Data Analysis` `Safety Protocols` `Reporting`
+      **🛡️ Industrial EHS Management**
+      <br/>Comprehensive Environement, Health, and Safety system for industrial sites.
+      <br/>`Safety Management` `Incident Reporting` `Compliance`
     </td>
   </tr>
   <tr>
     <td width="50%">
-      **🧾 Professional Invoicing System**
-      <br/>Automated billing and financial tracking for businesses.
-      <br/>`Financial Logic` `PDF Generation` `Tax Integration`
+      **♻️ Waste & Sustainability Analytics**
+      <br/>Data-driven platform for waste management and environmental sustainability tracking.
+      <br/>`Resource Tracking` `Sustainability` `Decision Support`
     </td>
     <td width="50%">
-      **🏠 Expat Housing Management**
-      <br/>End-to-end management for hostels and expat residences.
-      <br/>`Rent Tracking` `Resident Database` `Facility Management`
+      **🚜 Factory Logistics & Movement**
+      <br/>Real-time system for organizing and tracking movement within large-scale factories.
+      <br/>`Logic Optimization` `Operations Planning` `Logistics`
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      **🧾 Financial & Invoicing Systems**
+      <br/>Automated billing, tax integration, and financial reporting solutions.
+      <br/>`Financial Logic` `Tax Integration` `Reporting`
+    </td>
+    <td width="50%">
+      **🏠 Expat Housing & Hostel ERP**
+      <br/>End-to-end management for resident databases and facility operations.
+      <br/>`ERP` `Facility Management` `Database Design`
     </td>
   </tr>
 </table>
