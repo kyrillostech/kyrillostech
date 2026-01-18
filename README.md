@@ -167,10 +167,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kyrillostech&show_icons=true&theme=github-dark-orange&hide_border=true&bg_color=0D1117&hide=stars,contribs" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrillostech&layout=compact&theme=github-dark-orange&hide_border=true&bg_color=0D1117" width="48%" />
-
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyrillostech&theme=github-dark-orange&hide_border=true&area=true&bg_color=0D1117&color=FCA311&line=FCA311&point=FFFFFF" width="100%" />
 
