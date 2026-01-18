@@ -28,16 +28,13 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="65%" style="vertical-align: top; padding: 25px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
+    <td width="100%" style="vertical-align: top; padding: 15px;">
       <h3>⚡ **"Code is ephemeral, Architecture is eternal."**</h3>
       <samp>
         I bridge the chaotic reality of high-stakes industrial requirements with the structured elegance of world-class software. With a DNA rooted in <b>Fire Engineering and Industrial Safety</b>, I approach every build with a <b>"Zero-Failure Tolerance."</b>
         <br/><br/>
         My mission is the <b>Digital Mobilization</b> of critical industries—transforming fragmented logistics and QA processes into autonomous, data-driven ecosystems that define the future.
       </samp>
-    </td>
-    <td width="35%" align="center" style="vertical-align: middle; padding-left: 20px;">
-       <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,kotlin,flutter,mongodb,postgres,mysql,firebase,docker,git" width="100%" />
     </td>
   </tr>
 </table>
@@ -46,8 +43,44 @@
 
 <div align="center">
 
-## 🏭 **GLOBAL INDUSTRIAL POWERHOUSE**
-*High-Integrity Systems for Pharmaceutical, Food, and Heavy Industries*
+## 🍕 **HOSPITALITY & F&B INTELLIGENCE SUITE**
+*Comprehensive Restaurant & Cafe Management Ecosystem*
+
+<table width="100%">
+<tr>
+<td width="50%">
+<h3>🍽️ <b>RESTAURANT & CAFE MASTER SYSTEM</b></h3>
+<samp>A full-stack ecosystem managing the entire F&B lifecycle from front-of-house to backend inventory.</samp>
+<br/><br/>
+✅ <b>1. Smart POS:</b> Lightning-fast touch interface handling complex orders.<br/>
+✅ <b>2. Digital Menu:</b> QR contactless ordering with dynamic visual menus.<br/>
+✅ <b>3. Kitchen KDS:</b> Real-time chef display for zero-error preparation.<br/>
+✅ <b>4. Inventory Core:</b> Ingredient-level tracking and recipe costing.<br/>
+✅ <b>5. Table Logic:</b> Visual floor management and reservation system.<br/>
+✅ <b>6. Staff HQ:</b> Shift scheduling, payroll, and performance logs.<br/>
+</td>
+<td width="50%">
+<h3>☕ <b>SPECIALIZED FEATURES</b></h3>
+<samp>Advanced modules tailored for high-volume cafes and fine dining.</samp>
+<br/><br/>
+✨ <b>7. Loyalty CRM:</b> Customer retention engine with points/rewards.<br/>
+✨ <b>8. Multi-Branch:</b> Centralized cloud dashboard for franchise control.<br/>
+✨ <b>9. Delivery Hub:</b> Integration with major delivery platforms.<br/>
+✨ <b>10. Finance AI:</b> Sales forecasting and automated P&L reports.<br/>
+✨ <b>11. Offline Mode:</b> Zero-downtime architecture syncing upon reconnection.<br/>
+✨ <b>12. Waiter App:</b> Mobile tableside ordering for enhanced service speed.<br/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏭 **INDUSTRIAL & ENTERPRISE POWERHOUSE**
+*High-Integrity Systems for Pharmaceutical, Logistics, and Safety*
 
 </div>
 
