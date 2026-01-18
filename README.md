@@ -22,13 +22,13 @@
 
 <div align="center">
 
-## � **THE ARCHITECT'S MANIFESTO | بــيـان الــمعـماري**
+## 📜 **THE ARCHITECT'S MANIFESTO**
 
 </div>
 
 <table border="0" width="100%">
   <tr>
-    <td width="60%" style="vertical-align: top; padding: 20px;">
+    <td width="65%" style="vertical-align: top; padding: 25px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
       <h3>⚡ **"Code is ephemeral, Architecture is eternal."**</h3>
       <samp>
         I bridge the chaotic reality of high-stakes industrial requirements with the structured elegance of world-class software. With a DNA rooted in <b>Fire Engineering and Industrial Safety</b>, I approach every build with a <b>"Zero-Failure Tolerance."</b>
@@ -36,8 +36,8 @@
         My mission is the <b>Digital Mobilization</b> of critical industries—transforming fragmented logistics and QA processes into autonomous, data-driven ecosystems that define the future.
       </samp>
     </td>
-    <td width="40%" align="center">
-       <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,kotlin,flutter,mongodb,postgres,mysql,firebase,wordpress,webflow,docker,git,linux,figma,ps,ai&perline=6" width="100%" />
+    <td width="35%" align="center" style="vertical-align: middle; padding-left: 20px;">
+       <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,kotlin,flutter,mongodb,postgres,mysql,firebase,docker,git" width="100%" />
     </td>
   </tr>
 </table>
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-## � **GLOBAL INDUSTRIAL POWERHOUSE | قــلـعة الـحلول الـصـناعـيـة**
+## 🏭 **GLOBAL INDUSTRIAL POWERHOUSE**
 *High-Integrity Systems for Pharmaceutical, Food, and Heavy Industries*
 
 </div>
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-## ⛪ **SPIRITUAL & COMMUNITY LEGACY | الإرث الــروحـي والـخـدمـي**
+## ⛪ **SPIRITUAL & COMMUNITY LEGACY**
 *Modernizing the Coptic Orthodox Digital Experience*
 
 </div>
@@ -91,7 +91,7 @@
 
 <div align="center">
 
-## 🎨 **CREATIVE AUTHORITY | الـسـلـطة الإبــداعـيـة**
+## 🎨 **CREATIVE AUTHORITY**
 *Where Psychological Design Meets Engineering Precision*
 
 </div>
@@ -114,13 +114,13 @@
 
 <div align="center">
 
-## �️ **THE PERFORMANCE MATRIX | مــصفوفة الأداء الـتقـني**
+## 🛰️ **THE PERFORMANCE MATRIX**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyrillostech&theme=github-dark-orange&hide_border=true&area=true&bg_color=0D1117&color=D4AF37&line=D4AF37&point=FFFFFF" width="100%" />
 
 <br/>
 
-## 🏛️ **ESTABLISH STRATEGIC CONTACT | تــواصـل بـشـكل رسـمـي**
+## 🏛️ **ESTABLISH STRATEGIC CONTACT**
 
 | **CHANNEL** | **DESTINATION** | **VIBE** |
 | :--- | :--- | :--- |
