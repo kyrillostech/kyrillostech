@@ -1,144 +1,139 @@
 <div align="center">
 
-# � Welcome to my Tech Space
-# **Eng. Kirollos Emad**
-### **Full Stack Developer | Software Architect | Solutions Engineer**
+<!-- Monumental Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Eng.%20Kirollos%20Emad&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-cv.kyrillos.site-gold?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cv.kyrillos.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://eg.linkedin.com/in/kyrillosemad)
+### 🚀 **SOFTWARE ARCHITECT | FULL STACK DEVELOPER | SOLUTIONS ENGINEER**
+**Bridging Engineering Logic with Cutting-Edge Programming**
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-cv.kyrillos.site-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://cv.kyrillos.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://eg.linkedin.com/in/kyrillosemad)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201124259002)
 
+<br/>
+
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyrillostech&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyrillostech&layout=compact&theme=tokyo-night&hide_border=true)
+<!-- Professional Stats -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=kyrillostech&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrillostech&layout=compact&theme=nord&hide_border=true" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me | نُبذة عني
+## 🧑‍💻 **Mastering the Art of Software Engineering** | نُبذة عن المطور
 
-I am a **Software Engineer** dedicated to building high-performance applications that solve real-world problems. With a background in engineering and a passion for code, I bridge the gap between complex logic and seamless user experience.
+I specialized in developing **High-Performance Industrial & Spiritual Systems**. My journey merges the discipline of engineering with the creativity of modern software architecture.
 
-- 🏗️ **Enterprise Solutions**: Expert in building ERP, Invoicing, and Management systems.
-- � **Mobile & Web**: Crafting responsive and intuitive cross-platform experiences.
-- 🎨 **Visual Excellence**: Professional in high-conversion Landing Pages and WordPress development.
-- 👨‍🏫 **Community Focused**: Developing tools for spiritual growth and social organization.
+- � **Industrial Powerhouse**: Architecture of QA, EHS, and Fleet Management systems for Pharma/Food giants.
+- ⛪ **Faith-Tech Pioneer**: Leading developer of spiritual growth tools and Coptic Orthodox community systems.
+- 🎨 **Visual & Logic Harmony**: Expert in high-conversion UI/UX, Landing Pages, and WordPress Mastery.
 
 ---
 
-## 🛠️ Tech Stack | التقنيات البرمجية
+## 🛠️ **Tech Arsenal | ترسانة التقنيات**
 
 <div align="center">
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Frontend** | `React.js`, `Next.js`, `Vue.js`, `TailwindCSS`, `Bootstrap`, `HTML5/CSS3` |
-| **Backend** | `Node.js`, `.NET Core`, `FastAPI`, `Express.js` |
-| **Mobile** | `Android (Kotlin/Java)`, `Flutter`, `React Native` |
-| **CMS** | `WordPress (Expert)`, `WooCommerce`, `Elementor`, `ACF` |
-| **Databases** | `PostgreSQL`, `MySQL`, `MongoDB`, `Firebase`, `SQLite` |
-| **Tools** | `Git`, `Docker`, `Figma`, `Postman`, `VS Code` |
+| 🏗️ Architecture | 🌐 Web & Backend | 📱 Mobile | ⚙️ Industrial |
+| :--- | :--- | :--- | :--- |
+| `Clean Architecture` | `React / Next.js` | `Kotlin / Java` | `Pharma Compliance` |
+| `Microservices` | `Node.js / Express` | `Flutter` | `EHS Standards` |
+| `Database Design` | `.NET Core` | `React Native` | `QA - CAPA` |
+| `Security (JWT)` | `PostgreSQL / MongoDB` | `Jetpack Compose` | `Sustainability Analytics` |
 
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,kotlin,flutter,mongodb,postgres,wordpress,figma,docker,git" />
 </div>
 
 ---
 
-## 🌟 Featured Projects | أبرز المشاريع
+## 🌟 **Industrial & Professional Portfolio** | الأنظمة الاحترافية
 
-### 🏢 Enterprise & Industrial Solutions (الأنظمة الإدارية والصناعية)
+### 🏢 **Enterprise Solutions (Industrial Excellence)**
 <table>
   <tr>
-    <td width="50%">
-      **� Pharmaceutical & Food QA System**
-      <br/>Advanced Quality Assurance system with CAPA, Auditing, and Compliance modules.
-      <br/>`Pharma Compliance` `Auditing` `CAPA` `Quality Control`
+    <td width="33%">
+      <div align="center"><b>💊 Quality Assurance (QA)</b></div>
+      <p align="center">Comprehensive QA System for Pharma/Food, featuring <b>CAPA Monitoring</b>, Auditing, and full compliance logs. </p>
     </td>
-    <td width="50%">
-      **🛡️ Industrial EHS Management**
-      <br/>Comprehensive Environement, Health, and Safety system for industrial sites.
-      <br/>`Safety Management` `Incident Reporting` `Compliance`
+    <td width="33%">
+      <div align="center"><b>🛡️ EHS Management</b></div>
+      <p align="center">Environment, Health, and Safety protocols management for high-risk industrial environments.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      **♻️ Waste & Sustainability Analytics**
-      <br/>Data-driven platform for waste management and environmental sustainability tracking.
-      <br/>`Resource Tracking` `Sustainability` `Decision Support`
-    </td>
-    <td width="50%">
-      **� Industrial Fleet & Transport Management**
-      <br/>Comprehensive system for Fleet Department management, vehicle tracking, and transport logs.
-      <br/>`Fleet Management` `Vehicle Tracking` `Maintenance Scheduling` `Logistics`
+    <td width="33%">
+      <div align="center"><b>🚛 Fleet & Transport</b></div>
+      <p align="center">Full <b>Fleet Department</b> management: vehicle tracking, maintenance, and logistics optimization.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      **🧾 Financial & Invoicing Systems**
-      <br/>Automated billing, tax integration, and financial reporting solutions.
-      <br/>`Financial Logic` `Tax Integration` `Reporting`
+    <td width="33%">
+      <div align="center"><b>♻️ Waste & Sustainability</b></div>
+      <p align="center">Sustainability analytics platform for waste tracking and data-driven decision making.</p>
     </td>
-    <td width="50%">
-      **🏠 Expat Housing & Hostel ERP**
-      <br/>End-to-end management for resident databases and facility operations.
-      <br/>`ERP` `Facility Management` `Database Design`
+    <td width="33%">
+      <div align="center"><b>🏠 Expat Housing ERP</b></div>
+      <p align="center">End-to-end management for hostels and expat residences with financial rental tracking.</p>
+    </td>
+    <td width="33%">
+      <div align="center"><b>🧾 Smart Invoicing</b></div>
+      <p align="center">Advanced automated billing and financial reporting with tax law integrations.</p>
     </td>
   </tr>
 </table>
 
-### ⛪ Community & Spiritual Apps (التطبيقات الخدمية)
+### ⛪ **Community & Spiritual Applications**
 <table>
   <tr>
-    <td width="50%">
-      **⛪ Sunday School Management**
-      <br/>Professional system for student attendance and service tracking.
-      <br/>`Attendance System` `Student Profiles` `Database Management`
+    <td width="33%">
+      <div align="center"><b>⛪ Sunday School ERP</b></div>
+      <p align="center">Integrated system for student attendance, servant tracking, and service organization.</p>
     </td>
-    <td width="50%">
-      **📖 Bread of Life (Bible Planner)**
-      <br/>Premium spiritual growth tool with Monastic UI Design.
-      <br/>`React` `PWA` `Streak System` `Monastic UI`
+    <td width="33%">
+      <div align="center"><b>📖 Bread of Life</b></div>
+      <p align="center">Premium Bible Planner with a unique Monastic UI and spiritual streak system.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      **✟ Katameros & DailyCoptic**
-      <br/>Suite of liturgical and devotional apps for daily spiritual life.
-      <br/>`API Integration` `Coptic Calendar` `Glassmorphism`
-    </td>
-    <td width="50%">
-      **🔥 Fire Engineering Calculator**
-      <br/>Professional engineering tool for rapid fire system estimation.
-      <br/>`Engineering Formulas` `PDF Export` `Reference Tool`
+    <td width="33%">
+      <div align="center"><b>🔥 Fire Engineering</b></div>
+      <p align="center">Reference tool based on international engineering formulas for fire system estimation.</p>
     </td>
   </tr>
 </table>
 
-### � Creative & CMS Development (التطوير الإبداعي)
-*   **High-Conversion Landing Pages**: Skilled in creating diverse, high-performance landing pages that drive results.
-*   **WordPress Mastery**: Expert in building custom themes, WooCommerce stores, and complex Elementor layouts.
-*   **Auth Systems**: Robust Login/Security systems with JWT and secure session management.
+### 🎨 **Creative Arts & Web Mastery**
+*   **High-Conversion Landing Pages**: Crafting psychological and visual journeys that convert visitors into clients.
+*   **WordPress Wizardry**: Complex WooCommerce, custom Elementor modules, and high-performance CMS sites.
 
 ---
-
-## � My GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kyrillostech&theme=tokyo-night&hide_border=true&area=true)
-
----
-
-## � Let's Connect | تواصل معي
 
 <div align="center">
 
-| 🌐 [cv.kyrillos.site](https://cv.kyrillos.site) | 💼 [LinkedIn](https://eg.linkedin.com/in/kyrillosemad) | 📧 [kyrillos@engineer.com](mailto:kyrillos@engineer.com) | 📱 [+20 112 425 9002](https://wa.me/201124259002) |
+## 📈 **Life in Pixels | GitHub Activity**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kyrillostech&theme=nord&hide_border=true&area=true)
+
+---
+
+## 📫 **Let's Build Something Great!**
+| 🌐 [cv.kyrillos.site](https://cv.kyrillos.site) | 💼 [LinkedIn](https://eg.linkedin.com/in/kyrillosemad) | 📧 [kyrillos@engineer.com](mailto:kyrillos@engineer.com) | 📱 [WhatsApp Click](https://wa.me/201124259002) |
 |:---:|:---:|:---:|:---:|
 
-**Available for Freelance, Consultation, and Full-time Opportunities.**
+**Available for High-Profile Freelance & Full-time Architecture Roles.**
 
-*"The fear of the Lord is the beginning of wisdom"* — *Proverbs 9:10*
+*"I can do all things through Christ who strengthens me" — Philippians 4:13*
 
-![Profile Views](https://komarev.com/ghpvc/?username=kyrillostech&color=blue&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=kyrillostech&color=00b4d8&style=flat-square&label=Profile+Views)
 
 </div>
