@@ -134,15 +134,20 @@ I'm constantly working on new exciting projects.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyrillostech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrillostech&layout=compact&theme=tokyonight&hide_border=true"/>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kyrillostech&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyrillostech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  
+| 📈 Total Commits | 🗂️ Repositories | ⭐ Stars Earned |
+|:---:|:---:|:---:|
+| Growing Daily! | 3+ Projects | Building Community |
+
 </div>
 
 ---
