@@ -27,6 +27,11 @@ A modern Coptic Orthodox **Katameros** web app that displays daily liturgical re
 *   **Features:** Real-time API integration, Coptic Dates, Beautiful Readings Display.
 *   **Tech:** JS, API Integration.
 
+### 🙏 [DailyCoptic (تأملات يومية)](https://github.com/kyrillostech/daily-coptic)
+A beautiful **Daily Coptic Meditations** app with verses, sayings of the Fathers, and the complete Synaxarium.
+*   **Features:** Offline-first, Dual Calendar, Share functionality.
+*   **Tech:** Vanilla JS, Static JSON Data.
+
 ---
 
 ## 📊 GitHub Stats
