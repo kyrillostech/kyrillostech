@@ -1,177 +1,167 @@
 <div align="center">
 
-<!-- 👑 IMPERIAL ARCHITECT HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0D1117,10,03045E,20,023E8A,40,0077B6,70,D4AF37,100,D4AF37&height=320&section=header&text=KIROLLOS%20EMAD&fontSize=95&animation=fadeIn&fontAlignY=35&desc=THE%20ARCHITECT%20OF%20MISSION-CRITICAL%20SYSTEMS&descAlignY=55&descSize=22" width="100%" />
+<!-- 👑 TITANIC HEADER 2.0 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,000000,40,14213d,100,fca311&height=350&section=header&text=KIROLLOS%20EMAD&fontSize=90&animation=fadeIn&fontAlignY=38&desc=ARCHITECTING%20THE%20FUTURE%20OF%20INDUSTRY&descAlignY=58&descSize=20&fontColor=ffffff" width="100%" />
 
 <br/>
 
-<!-- 💫 DYNAMIC IDENTITY -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&lines=SOFTWARE+ARCHITECT;INDUSTRIAL+SOLUTIONS+STRATEGIST;FULL-STACK+ENGINEERING+ELITE;UI/UX+DESIGN+MAESTRO" alt="Identity" />
-</p>
+<!-- 💫 HOLOGRAPHIC IDENTITY -->
+<a href="https://cv.kyrillos.site">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=35&pause=1000&color=FCA311&center=true&vCenter=true&width=1000&lines=SOFTWARE+ARCHITECT+|+INDUSTRIAL+STRATEGIST;BUILDING+MISSION-CRITICAL+ECOSYSTEMS;TRANSFORMING+LOGIC+INTO+LEGACY" alt="Identity" />
+</a>
 
 <p align="center">
-  <a href="https://cv.kyrillos.site"><img src="https://img.shields.io/badge/👑--PRESTIGE--PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=D4AF37" /></a>
-  <a href="https://eg.linkedin.com/in/kyrillosemad"><img src="https://img.shields.io/badge/🤝--EXECUTIVE--NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/201124259002"><img src="https://img.shields.io/badge/💬--DIRECT--GATEWAY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://cv.kyrillos.site"><img src="https://img.shields.io/badge/🏛️--PREMIUM--PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=fca311" /></a>
+  <a href="https://eg.linkedin.com/in/kyrillosemad"><img src="https://img.shields.io/badge/👔--EXECUTIVE--NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/201124259002"><img src="https://img.shields.io/badge/�--DIRECT--ACCESS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 📜 **THE ARCHITECT'S MANIFESTO**
-
-</div>
-
+<!-- � THE ARCHITECT'S VISION -->
 <table border="0" width="100%">
   <tr>
-    <td width="100%" style="vertical-align: top; padding: 15px;">
-      <h3>⚡ **"Code is ephemeral, Architecture is eternal."**</h3>
+    <td width="60%" style="vertical-align: middle;">
+      <h2>⚡ <b>THE ARCHITECT'S MANIFESTO</b></h2>
       <samp>
-        I bridge the chaotic reality of high-stakes industrial requirements with the structured elegance of world-class software. With a DNA rooted in <b>Fire Engineering and Industrial Safety</b>, I approach every build with a <b>"Zero-Failure Tolerance."</b>
-        <br/><br/>
-        My mission is the <b>Digital Mobilization</b> of critical industries—transforming fragmented logistics and QA processes into autonomous, data-driven ecosystems that define the future.
+        <b>"Precision is not an option; it is the standard."</b><br/><br/>
+        I engineer high-availability software ecosystems for industries where failure is not an option. Merging <b>Industrial Safety DNA</b> with <b>Silicon Valley Architecture</b>, I deliver systems that optimize logistics, enforce compliance, and drive digital transformation.
       </samp>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,kotlin,flutter,mongodb,postgres,mysql,firebase,docker,git,linux,figma&perline=5" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
+<!-- 💎 LUXURY HOSPITALITY SUITE (THE GOLD EDITION) -->
 <div align="center">
+<h2>🍕 <b>HOSPITALITY & F&B INTELLIGENCE SUITE</b></h2>
+<img src="https://img.shields.io/badge/STATUS-DEPLOYMENT_READY-success?style=for-the-badge" />
+</div>
 
-## 🍕 **HOSPITALITY & F&B INTELLIGENCE SUITE**
-*Comprehensive Restaurant & Cafe Management Ecosystem*
+<br/>
 
 <table width="100%">
 <tr>
-<td width="50%">
-<h3>🍽️ <b>RESTAURANT & CAFE MASTER SYSTEM</b></h3>
-<samp>A full-stack ecosystem managing the entire F&B lifecycle from front-of-house to backend inventory.</samp>
-<br/><br/>
-✅ <b>1. Smart POS:</b> Lightning-fast touch interface handling complex orders.<br/>
-✅ <b>2. Digital Menu:</b> QR contactless ordering with dynamic visual menus.<br/>
-✅ <b>3. Kitchen KDS:</b> Real-time chef display for zero-error preparation.<br/>
-✅ <b>4. Inventory Core:</b> Ingredient-level tracking and recipe costing.<br/>
-✅ <b>5. Table Logic:</b> Visual floor management and reservation system.<br/>
-✅ <b>6. Staff HQ:</b> Shift scheduling, payroll, and performance logs.<br/>
+<td width="33%" align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="60"/><br/>
+<b>SMART POS CORE</b><br/>
+<samp>Lightning-fast touch interface handling complex orders & split billing.</samp>
 </td>
-<td width="50%">
-<h3>☕ <b>SPECIALIZED FEATURES</b></h3>
-<samp>Advanced modules tailored for high-volume cafes and fine dining.</samp>
-<br/><br/>
-✨ <b>7. Loyalty CRM:</b> Customer retention engine with points/rewards.<br/>
-✨ <b>8. Multi-Branch:</b> Centralized cloud dashboard for franchise control.<br/>
-✨ <b>9. Delivery Hub:</b> Integration with major delivery platforms.<br/>
-✨ <b>10. Finance AI:</b> Sales forecasting and automated P&L reports.<br/>
-✨ <b>11. Offline Mode:</b> Zero-downtime architecture syncing upon reconnection.<br/>
-✨ <b>12. Waiter App:</b> Mobile tableside ordering for enhanced service speed.<br/>
+<td width="33%" align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/3003/3003202.png" width="60"/><br/>
+<b>DIGITAL MENU QR</b><br/>
+<samp>Contactless ordering with dynamic visual menus & instant sync.</samp>
+</td>
+<td width="33%" align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/1046/1046784.png" width="60"/><br/>
+<b>KITCHEN KDS</b><br/>
+<samp>Real-time Chef Display systems for zero-error food preparation.</samp>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/2821/2821810.png" width="60"/><br/>
+<b>INVENTORY AI</b><br/>
+<samp>Ingredient-level tracking with recipe costing & auto-restock.</samp>
+</td>
+<td width="33%" align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/2645/2645897.png" width="60"/><br/>
+<b>LOYALTY & CRM</b><br/>
+<samp>Retention engine with points, rewards, and customer analytics.</samp>
+</td>
+<td width="33%" align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/658/658097.png" width="60"/><br/>
+<b>MULTI-BRANCH HQ</b><br/>
+<samp>Cloud dashboard for centralized franchise control & reporting.</samp>
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
+<!-- 🏭 INDUSTRIAL STRONGHOLD -->
 <div align="center">
-
-## 🏭 **INDUSTRIAL & ENTERPRISE POWERHOUSE**
-*High-Integrity Systems for Pharmaceutical, Logistics, and Safety*
-
+<h2>🏭 <b>GLOBAL INDUSTRIAL POWERHOUSE</b></h2>
 </div>
 
-<br/>
-
-<div align="center">
-
-| **STRATEGIC SECTOR** | **THE ARCHITECTURAL SOLUTION** | **KEY COMPLIANCE & TECH** |
-| :--- | :--- | :--- |
-| **💊 Pharma & Food QA** | **Elite Quality Assurance System**: Full-scale CAPA, Audit Forensic Tracking, and Validation workflows. | `FDA 21 CFR Part 11` `GAMP 5` `Audit Trail` |
-| **🛡️ Industrial HSE/EHS** | **The Guardian Shield**: Real-time incident management, Risk Matrices, and Environmental Health protocols. | `ISO 45001` `Risk Forecasting` `Dashboarding` |
-| **🚛 Fleet Department** | **Fleet Command Intel**: Strategic fuel logistics, predictive mechanical maintenance, and transport orchestration. | `Logistics AI` `Resource Optimization` |
-| **♻️ Sustainability** | **ESG Analytics Engine**: Converting industrial waste streams into strategic resource optimization data. | `Waste Analytics` `Decision Support` |
-| **⚖️ Risk Assessment** | **Quantum Risk Engine**: High-fidelity hazard mitigation logic and automated preventive strategies. | `Hazard Logic` `Prevention Mapping` |
-| **🏠 Enterprise ERP** | **Integrated Housing & Financials**: Complex rental logic, resident databases, and tax-ready invoicing. | `Financial Logic` `ERP Architecture` |
-
-</div>
-
----
-
-<div align="center">
-
-## ⛪ **SPIRITUAL & COMMUNITY LEGACY**
-*Modernizing the Coptic Orthodox Digital Experience*
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| **PROJECT** | **VISIONARY EXECUTION** | **AESTHETIC & TECH** |
-| :--- | :--- | :--- |
-| **👑 Bread of Life** | The ultimate Coptic Bible Planner. A spiritual companion for the 21st century. | `Monastic Glass UI` `Habit Streaks` |
-| **⛪ Sunday School ERP** | Empowering servants with cloud-based attendance and growth analytics. | `Cloud Sync` `Servant HQ` |
-| **🔥 Fire Engineering** | Precision tools for professional fire system estimation and engineering formulas. | `Logic Injection` `Engineering API` |
-
-</div>
-
----
-
-<div align="center">
-
-## 🎨 **CREATIVE AUTHORITY**
-*Where Psychological Design Meets Engineering Precision*
-
-</div>
-
-<table border="0">
+<table width="100%">
   <tr>
-    <td width="33%" align="center">
-      <b>🚀 LANDING PAGES</b><br/>High-Conversion, high-intent visual journeys designed to capture and convert.
+    <td width="50%">
+      <h3><img src="https://cdn-icons-png.flaticon.com/512/2965/2965313.png" width="25" valign="middle"/> <b>PHARMA & FOOD QA ELITE</b></h3>
+      <samp>Complete <b>Audit & CAPA</b> management ecosystem. Ensures 100% compliance with FDA 21 CFR Part 11 & GAMP 5 standards.</samp>
     </td>
-    <td width="33%" align="center">
-      <b>⚙️ WORDPRESS MASTERY</b><br/>Deep custom development, WooCommerce architectures, and optimized Elementor ecosystems.
+    <td width="50%">
+      <h3><img src="https://cdn-icons-png.flaticon.com/512/3596/3596009.png" width="25" valign="middle"/> <b>INDUSTRIAL HSE GUARDIAN</b></h3>
+      <samp>Zero-Incident safety framework. Real-time risk matrices, incident forensics, and ISO 45001 compliance logs.</samp>
     </td>
-    <td width="33%" align="center">
-      <b>🔐 SECURITY FIRST</b><br/>Hardened Auth systems, MFA integration, and secure JWT session management.
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><img src="https://cdn-icons-png.flaticon.com/512/2830/2830312.png" width="25" valign="middle"/> <b>FLEET COMMAND INTEL</b></h3>
+      <samp>Strategic Fleet orchestration. Predictive maintenance, fuel logistics optimization, and real-time vehicle telemetry.</samp>
+    </td>
+    <td width="50%">
+      <h3><img src="https://cdn-icons-png.flaticon.com/512/2823/2823521.png" width="25" valign="middle"/> <b>SUSTAINABILITY ENGINE</b></h3>
+      <samp>Turning waste into data. ESG decision-support systems for resource optimization and environmental reporting.</samp>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><img src="https://cdn-icons-png.flaticon.com/512/4257/4257850.png" width="25" valign="middle"/> <b>QUANTUM RISK MATRIX</b></h3>
+      <samp>Advanced hazard mitigation logic. Automated prevention strategies based on dynamic industrial risk scores.</samp>
+    </td>
+    <td width="50%">
+      <h3><img src="https://cdn-icons-png.flaticon.com/512/2169/2169860.png" width="25" valign="middle"/> <b>ENTERPRISE ERP & HOUSING</b></h3>
+      <samp>Integrated financial eco-system. Managing resident databases, complex rental logic, and tax-ready invoicing.</samp>
     </td>
   </tr>
 </table>
 
 ---
 
+<!-- ⛪ VISUAL SPIRITUAL LEGACY -->
+<div align="center">
+<h2>✟ <b>SPIRITUAL & COMMUNITY LEGACY</b></h2>
+</div>
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/2883/2883619.png" width="50"/><br/>
+<b>BREAD OF LIFE</b><br/>
+<samp>Use: Bible Planner</samp><br/>
+<img src="https://img.shields.io/badge/UI-MONASTIC_GLASS-d4af37" />
+</td>
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/2995/2995493.png" width="50"/><br/>
+<b>SUNDAY SCHOOL ERP</b><br/>
+<samp>Use: Service Mgmt</samp><br/>
+<img src="https://img.shields.io/badge/TECH-CLOUD_SYNC-0077b6" />
+</td>
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/2942/2942940.png" width="50"/><br/>
+<b>FIRE ENGINEERING</b><br/>
+<samp>Use: Calculator</samp><br/>
+<img src="https://img.shields.io/badge/LOGIC-ENGINEERING_API-d00000" />
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
-## 🛰️ **THE PERFORMANCE MATRIX**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyrillostech&theme=github-dark-orange&hide_border=true&area=true&bg_color=0D1117&color=D4AF37&line=D4AF37&point=FFFFFF" width="100%" />
-
-<br/>
-
-## 🏛️ **ESTABLISH STRATEGIC CONTACT**
-
-| **CHANNEL** | **DESTINATION** | **VIBE** |
-| :--- | :--- | :--- |
-| 🌐 **PORTFOLIO** | [cv.kyrillos.site](https://cv.kyrillos.site) | *The Gallery of Excellence* |
-| 💼 **LINKEDIN** | [Executive Profile](https://eg.linkedin.com/in/kyrillosemad) | *Professional Strategic Network* |
-| 📧 **OFFICIAL EMAIL** | [kyrillos@engineer.com](mailto:kyrillos@engineer.com) | *Confidential Consultation* |
-| 📱 **WHATSAPP** | [+20 112 425 9002](https://wa.me/201124259002) | *Immediate Strategic Access* |
+## � **THE ARCHITECT'S PULSE**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyrillostech&theme=github-dark-orange&hide_border=true&area=true&bg_color=000000&color=fca311&line=fca311&point=FFFFFF" width="100%" />
 
 <br/>
 
-**Currently accepting high-impact Architectural Roles, Industrial Consulting, and Premium Freelance Partnerships.**
-
-<br/>
-
-*"Commit your way to the Lord; trust in him and he will do this"* — *Psalm 37:5*
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kyrillostech&color=D4AF37&style=for-the-badge&label=ELITE+VISITS" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,fca311,100,000000&height=100&section=footer&text=DESIGNED%20FOR%20EXCELLENCE&fontSize=25&fontAlignY=50&desc=COPYRIGH%202025%20©%20KIROLLOS%20EMAD&descAlignY=70&descSize=12" width="100%" />
 
 </div>
