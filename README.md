@@ -42,7 +42,8 @@ A modern Coptic Orthodox **Katameros** web app that displays daily liturgical re
 ## 📫 Connect with Me
 
 *   **LinkedIn:** [Eng. Kirollos Emad](https://eg.linkedin.com/in/kyrillosemad)
-*   **Email:** [Your Email Here]
+*   **Email:** kyrillos@engineer.com | engineerkyrillos@gmail.com
+*   **Phone:** +201124259002
 
 <!--
 **kyrillostech/kyrillostech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
