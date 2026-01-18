@@ -5,17 +5,17 @@
 
 <!-- ⚡ SEO-OPTIMIZED DYNAMIC TITLES -->
 <a href="https://cv.kyrillos.site">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FCA311&center=true&vCenter=true&width=900&lines=EXPERT+SOFTWARE+ENGINEER+|+DOTNET+&+NODEJS+ARCHITECT;BUILDING+RESTAURANT+POS+SYSTEMS+&+CLOUD+ERP;INDUSTRIAL+AUTOMATION+DEVELOPER+|+IOT+&+SCADA+INTEGRATION;PHARMA+GAMP5+COMPLIANT+SOFTWARE+SPECIALIST;CROSS-PLATFORM+MOBILE+APP+DEVELOPER+(FLUTTER/KOTLIN)" alt="Hire Top Software Developer Kirollos Emad for ERP and POS Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=28&pause=1000&color=FCA311&center=true&vCenter=true&width=900&lines=EXPERT+SOFTWARE+ARCHITECT;BUILDING+RESTAURANT+POS+SYSTEMS+&+CLOUD+ERP;INDUSTRIAL+AUTOMATION+DEVELOPER;PHARMA+GAMP5+COMPLIANT+SOFTWARE+SPECIALIST;CROSS-PLATFORM+MOBILE+APP+DEVELOPER" alt="Hire Top Software Developer Kirollos Emad" />
 </a>
 
 <br/>
 
 <!-- 🔗 HIGH-CONVERSION CTA BUTTONS -->
 <p align="center">
-  <a href="https://cv.kyrillos.site"><img src="https://img.shields.io/badge/PORTFOLIO-DL_CV_&_PROJECTS-FCA311?style=for-the-badge&logo=google-chrome&logoColor=black" height="30" alt="Kirollos Emad Official Software Portfolio"/></a>
-  <a href="https://eg.linkedin.com/in/kyrillosemad"><img src="https://img.shields.io/badge/LINKEDIN-HIRE_SENIOR_DEV-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="Connect with Senior Developer on LinkedIn"/></a>
-  <a href="https://wa.me/201124259002"><img src="https://img.shields.io/badge/WHATSAPP-START_YOUR_SYSTEM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" alt="Chat with Freelance Programmer on WhatsApp"/></a>
-  <a href="mailto:kyrillos@engineer.com"><img src="https://img.shields.io/badge/EMAIL-GET_SOFTWARE_QUOTE-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email Kirollos Emad for Software Development"/></a>
+  <a href="https://cv.kyrillos.site"><img src="https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=google-chrome&logoColor=FCA311" height="30" alt="Visit Portfolio"/></a>
+  <a href="https://eg.linkedin.com/in/kyrillosemad"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/></a>
+  <a href="https://wa.me/201124259002"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" alt="WhatsApp"/></a>
+  <a href="mailto:kyrillos@engineer.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email"/></a>
 </p>
 
 </div>
